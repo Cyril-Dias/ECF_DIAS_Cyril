@@ -9,10 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/plus-jakarta-sans": "^5.0.5",
+    "@fontsource/poppins": "^5.0.5",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
+    "i18n": "^0.15.1",
     "next": "13.4.10",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-image-gallery": "^1.2.12",
+    "swiper": "^10.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3"
   }
 }
